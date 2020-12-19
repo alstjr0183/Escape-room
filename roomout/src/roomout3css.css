@@ -1,0 +1,68 @@
+/* html {
+    cursor: none;
+} */
+.roomout3boos {
+  /* position: fixed; */
+  /* overflow: hidden; */
+}
+.fixbox {
+  /* position: fixed;
+  z-index: 100; */
+}
+
+.fixbox2 {
+}
+
+.fixbox3 {
+}
+
+.ropeking {
+  display: none;
+}
+
+.lightcase {
+  width: 100%;
+  position: fixed;
+  left: 44%;
+  bottom: 92%;
+  z-index: 4;
+}
+
+.lightboss img:nth-child(1) {
+  position: fixed;
+  left: 45.9%;
+  bottom: 75%;
+  z-index: 2;
+  display: block;
+}
+.lightboss img:nth-child(2) {
+  position: fixed;
+  left: 46.2%;
+  bottom: 75.2%;
+  z-index: 1;
+}
+
+.ropeboss {
+  width: 100%;
+  position: fixed;
+  left: 40%;
+  bottom: 60%;
+
+  z-index: 3;
+}
+
+.window1 {
+  position: fixed;
+  left: 20%;
+  width: 80%;
+  z-index: 2;
+  opacity: 0.5;
+}
+
+.mousecurboss img {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 3;
+  display: none;
+}
