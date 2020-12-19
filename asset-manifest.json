@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Escape-room/static/css/main.3b24fc20.chunk.css",
+    "main.js": "/Escape-room/static/js/main.283570d0.chunk.js",
+    "main.js.map": "/Escape-room/static/js/main.283570d0.chunk.js.map",
+    "runtime-main.js": "/Escape-room/static/js/runtime-main.a935a787.js",
+    "runtime-main.js.map": "/Escape-room/static/js/runtime-main.a935a787.js.map",
+    "static/js/2.60333258.chunk.js": "/Escape-room/static/js/2.60333258.chunk.js",
+    "static/js/2.60333258.chunk.js.map": "/Escape-room/static/js/2.60333258.chunk.js.map",
+    "index.html": "/Escape-room/index.html",
+    "static/css/main.3b24fc20.chunk.css.map": "/Escape-room/static/css/main.3b24fc20.chunk.css.map",
+    "static/js/2.60333258.chunk.js.LICENSE.txt": "/Escape-room/static/js/2.60333258.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a935a787.js",
+    "static/js/2.60333258.chunk.js",
+    "static/css/main.3b24fc20.chunk.css",
+    "static/js/main.283570d0.chunk.js"
+  ]
+}
